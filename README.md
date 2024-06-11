@@ -1,6 +1,6 @@
 # Security Monitoring Microservice
 
-This project is a security monitoring microservice developed as part of an internship application. The microservice performs basic security checks such as SQL injection and XSS detection.
+This project is a security monitoring microservice. The microservice performs basic security checks such as SQL injection and XSS detection.
 
 ## Installation
 
